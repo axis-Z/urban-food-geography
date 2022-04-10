@@ -1,4 +1,4 @@
-# urban-food-geography
+# Urban Food Geography
 
 EN Version
 
