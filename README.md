@@ -4,9 +4,9 @@ EN Version
 
 This project contains several files:
 
-1. A Python code sample of Google Places API scraper that was used to collect data;
-2. html/css/js files to run the project;
-3. final visuals. 
+1. html/css/js files to run the project;
+2. final visuals; 
+3. Upon subscribing to one of our Patreon tiers, a python script will be given to you. Our Patreon page: https://www.patreon.com/zaxis 
 
 Since Google does not allow to use the data for commercial purposes, it is forbidden to use the materials given here for such a goal. 
 The only purpose of providing these documents is for the sake of the open science principles and knowledge sharing. Any type of use of these materials
@@ -19,11 +19,11 @@ Please, respect this statement! We believe in and care for the free and open acc
 
 ეს პროექტი აერთიანებს რამდენიმე ფაილს: 
 
-1. Google Places API სქრეფერის გამოსაყენებლად Python-ის კოდის მაგალითს; 
-2. html/css/js ფაილებს პროექტის სრულყოფილი ფუნქციონირებისთვის;
-3. საბოლოო ვიზუალურ მასალას. 
+1. html/css/js ფაილებს პროექტის სრულყოფილი ფუნქციონირებისთვის;
+2. საბოლოო ვიზუალურ მასალას;
+3. თუკი გამოიწერთ ჩვენს გვერდს Patreon-ზე, მიიღებთ python-ის სკრიპტს, რომელიც შევქმენით მონაცემების შესაგროვებლად. ჩვენი Patreon გვერდი: https://www.patreon.com/zaxis 
 
-ვინაიდან Google კრძალავს ამ მონაცემების კომერციალიზაციას, აქ მოცემული მასალების ამ მიზნით გამოყენება დაუშვებელია. 
+ვინაიდან Google კრძალავს მონაცემების კომერციალიზაციას, აქ მოცემული მასალების ამ მიზნით გამოყენება დაუშვებელია. 
 ერთადერთი მიზანი, რომელსაც ემსახურება ამ მასალების გამოქვეყნება ემსახურება ღია მეცნიერებისა და ცოდნის გაზიარების პრინციპებს. აქ მოცემული ნებისმიერი მასალის
 ნებისმიერი ფორმით საკუთარ პუბლიკაციაში (ნიუსი, სამეცნიერო ნაშრომი, ანგარიში და ა.შ.) გამოყენების შემთხვევაში, შესაბამისი ფორმით უნდა იქნეს აღიარებული მისი 
 პირველწყარო: ორგანიზაცია Z.axis (ზედექსისი). უფრო მეტი ჩვენ მიერ შექმნილი მასალების გამოყენების და ციტირების წესების შესახებ შეგიძლიათ იხილოთ აქ - https://zaxis.ge/notice/. 
