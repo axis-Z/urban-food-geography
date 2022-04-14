@@ -1,4 +1,4 @@
-# Urban Food Geography
+# Urban Food Geography / საკვების გეოგრაფია
 
 EN Version
 
