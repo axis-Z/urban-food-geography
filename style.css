@@ -379,7 +379,7 @@ u {
 
   .text {
     box-sizing: content-box;
-    margin-top: 40%;
+    margin-top: 43%;
     font-family: "Noto Serif Georgian", serif;
     font-weight: 300;
     font-size: 13px;
@@ -437,6 +437,7 @@ u {
 
   .column{
     width: 100%;
+    padding: 10px;
   }
 
   .footer {
