@@ -267,8 +267,8 @@ u {
   font-size: 40px;
   color: #252525;
   text-align: right;
-  width: 45%;
-  padding-right: 5%;
+  width: 40%;
+  padding-right: 10%;
   padding-top: 5%;
 }
 
@@ -280,8 +280,8 @@ u {
 
 .left-content > * {
   position: absolute;
-  left: 55%;
-  top: 55%;
+  left: 50%;
+  top: 50%;
   opacity: 0;
   visibility: hidden;
 }
