@@ -281,8 +281,8 @@ u {
 
 .left-content > * {
   position: absolute;
-  left: 50%;
-  top: 65%;
+  left: 60%;
+  top: 60%;
   opacity: 0;
   visibility: hidden;
 }
