@@ -435,6 +435,19 @@ u {
     padding-left: 15px;
   }
 
+  .left-content {
+    padding-top: 32rem;
+    height: 20em;  
+    position: relative;
+  }
+
+  .left-content > * {
+    position: absolute;
+    left: 60%;
+    top: 60%;
+    opacity: 0;
+   visibility: hidden;
+  }
   .column{
     width: 100%;
     padding: 10px;
