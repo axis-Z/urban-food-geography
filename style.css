@@ -266,9 +266,9 @@ u {
   font-weight: 200;
   font-size: 40px;
   color: #252525;
-  text-align: left;
-  width: 40%;
-  padding-right: 10%;
+  text-align: right;
+  width: 45%;
+  padding-right: 5%;
   padding-top: 5%;
 }
 
@@ -280,8 +280,8 @@ u {
 
 .left-content > * {
   position: absolute;
-  left: 60%;
-  top: 60%;
+  left: 55%;
+  top: 55%;
   opacity: 0;
   visibility: hidden;
 }
